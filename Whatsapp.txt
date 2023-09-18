@@ -3,5 +3,3 @@ Send chat to your friends
 Share status
 Share about
 Thank you
-video call
-audio call
